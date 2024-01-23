@@ -1,0 +1,93 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 40%;
+    max-height:40%;
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  .para {
+    background-image: url(https://img.freepik.com/free-photo/programming-background-collage_23-2149901770.jpg?size=626&ext=jpg&ga=GA1.1.1147749890.1705857624&semt=ais);
+    min-height: 600px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .div1 {
+    background-color: rgb(94, 119, 180);
+    width: 800px;
+    border: 2px solid rgb(60, 62, 136);
+    padding: 100px;
+    margin: 5px;
+    
+  }
+  .div2 {
+    background-color:  rgb(184, 230, 250);
+    width: 800px;
+    border: 2px solid rgb(60, 62, 136);
+    padding: 100px;
+    margin: 5px;
+    position: absolute;
+    right: 0;
+    height: 140px;
+  }
+
+  .div3 {
+    background-color:rgb(94, 119, 180);
+    width: 1000px;
+    border: 2px solid rgb(60, 62, 136);
+    padding: 5px;
+    margin: 5px;
+  }
+  .div4 {
+    background-color:rgb(190, 210, 237);
+    width: 800px;
+    border: 2px solid rgb(60, 62, 136);
+    border-radius: 30px;
+    padding: 50px;
+    margin: 50px;
+    margin-left: 250px;
+  }
+  
+  .div5 {
+    background:
+    linear-gradient(rgb(232, 240, 173), transparent),
+    linear-gradient(to top left, rgb(134, 243, 119), transparent),
+    linear-gradient(to top right, rgb(26, 135, 93), transparent);
+background-blend-mode: screen;
+width: 300px;
+height: 200px;
+}
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-github {
+    background: #000000;
+    color: white;
+   
+  }
+  
+  
+  
+
+    
